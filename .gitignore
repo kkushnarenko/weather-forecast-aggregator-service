@@ -1,0 +1,66 @@
+﻿# === Byte-compiled / optimized / DLL files ===
+__pycache__/
+*.py[cod]
+*$py.class
+
+# === Cextensions ===
+*.so
+
+# === Distribution / packaging ===
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# === PyCharm / JetBrains IDE ===
+.idea/
+*.iws
+*.iml
+*.ipr
+.idea_modules/
+
+# === Environments & Virtual Envs ===
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# === SQLite Database ===
+*.sqlite3
+*.db
+*.sqlite
+
+# === Testing & Coverage ===
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.nox/
+.tox/
+.hypothesis/
+
+# === OS generated files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
