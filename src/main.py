@@ -24,6 +24,7 @@ app = FastAPI(
     title="Weather Aggregator Service",
     version="1.0.0",
     description="API для отслеживания и агрегации прогнозов погоды",
+    docs_url="/",
 )
 
 api_router = APIRouter()
